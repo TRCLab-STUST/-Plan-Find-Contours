@@ -8,7 +8,7 @@ This project is to find the skin of the human body from the picture, so as to al
 |Images          |Place a picture of the human body |Resources Dir                |
 |Json            |Json File Export                  |Resources Dir                |
 |src             |Place Code                        |Sources Dir                  |
-|th_out          |Picture after drawing the contours|Resiyrces Dir                |
+|th_out          |Picture after drawing the contours|Resources Dir                |
 |src/main.py     |Code                              |Python File                  |
 
 ## How to use?
